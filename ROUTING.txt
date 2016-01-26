@@ -1,0 +1,13 @@
+Modele MVC: Model / View / Controller
+
+* Model : Ce qui contient les infos de ta base de donnees (en general)
+* View : Ce que tu *AFFICHES* à l'utilisateur
+* Controller : Ce qui donne les réponses à une *action* de l'utilisateur
+
+--- ROUTES
+
+* Ce qui connecte une action d'un utilisateur à un controller
+
+
+ACTION => ROUTES => CONTROLLER => REPONSE (VIEW + autres choses (envoi d'email, enregistrement dans la BDD))
+
